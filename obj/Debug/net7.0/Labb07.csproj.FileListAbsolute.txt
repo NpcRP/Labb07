@@ -1,0 +1,14 @@
+C:\Users\lapto\Source\Repos\Labb07\bin\Debug\net7.0\Labb07.exe
+C:\Users\lapto\Source\Repos\Labb07\bin\Debug\net7.0\Labb07.deps.json
+C:\Users\lapto\Source\Repos\Labb07\bin\Debug\net7.0\Labb07.runtimeconfig.json
+C:\Users\lapto\Source\Repos\Labb07\bin\Debug\net7.0\Labb07.dll
+C:\Users\lapto\Source\Repos\Labb07\bin\Debug\net7.0\Labb07.pdb
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\Labb07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\Labb07.AssemblyInfoInputs.cache
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\Labb07.AssemblyInfo.cs
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\Labb07.csproj.CoreCompileInputs.cache
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\Labb07.dll
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\refint\Labb07.dll
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\Labb07.pdb
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\Labb07.genruntimeconfig.cache
+C:\Users\lapto\Source\Repos\Labb07\obj\Debug\net7.0\ref\Labb07.dll
