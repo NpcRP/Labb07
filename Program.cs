@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Globalization;
 public class Geometri
 {
     public virtual double Area()
